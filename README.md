@@ -9,8 +9,8 @@ https://dc98dbb.dizycommerce.com.br/index.php/rest/V1/orders/
 
 
 ### Credenciais para recuperar token Magento2
-User: testefullstack
-Senha: 8cjmbx1r
+- User: testefullstack
+- Senha: 8cjmbx1r
 
 
 ### Os resultados devem ser retornados em uma listagem com as seguintes colunas:
