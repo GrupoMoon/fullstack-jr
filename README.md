@@ -2,7 +2,8 @@
 
 # Teste Full Stack - Grupo Moon
 
-O teste consiste em criar um formulário de busca que irá consultar uma API REST do Magento2, a busca deverá ser feita no campo "customer_email". 
+- O teste consiste em criar um formulário de busca que irá consultar uma API REST do Magento2, a busca deverá ter como filtro o campo "customer_email".
+- Utilize a linguagem de programação que desejar
 
 ### Endpoint para consulta
 https://dc98dbb.dizycommerce.com.br/index.php/rest/V1/orders/
@@ -28,5 +29,5 @@ https://dc98dbb.dizycommerce.com.br/index.php/rest/V1/orders/
 ### Requisitos
 
 - Criar um frontend para realizar a busca com uma UX elaborada
-- Criar uma solução de autenticação entre o frontend e o backend
-- Disponibilizar aplicação para utilizarmos e avaliarmos (Pode disponibilizar via git ou docker), documente no README como devemos executar.
+- Verifique documentação Magento2 para autenticação e manipulação da API
+- Disponibilizar aplicação via GIT para utilizarmos e avaliarmos, documente no README como devemos executá-la.
